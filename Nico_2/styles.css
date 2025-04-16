@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 5px;
+    margin-right: 5px;
+}
+
+button {
+    padding: 5px 15px;
+    margin: 0 5px;
+}
+
+#addBtn { 
+    background: lightgreen; 
+}
+
+#deleteBtn { 
+    background: lightcoral; 
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+    margin: 5px 0;
+    background: #f0f0f0;
+}
